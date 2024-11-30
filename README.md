@@ -1,9 +1,9 @@
-## Hi there 👋 , You can call me Loww
+## Hi there 👋 , I'm Loww
 
 - 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
 - 🔭 I’m currently working on CV Algorithms
 
-## Tech I mess around with :
+## Tech I mess with
 <p align="center">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>

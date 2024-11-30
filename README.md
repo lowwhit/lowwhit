@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
 - 🔭 I’m currently working on CV Algorithms
 
-![](https://komarev.com/ghpvc/?username=lowwhit&color=blue&label=loww's+git+stalkers)
+![](https://komarev.com/ghpvc/?username=lowwhit&color=blue&label=loww's+profile+views)
 
 ## Tech I mess with
 <p align="center">

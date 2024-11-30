@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
+- 🔭 I’m currently working on CV Algorithms
+- 😄 Pronouns: he / him
+
 <!--
 **lowwhit/lowwhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Connect with me on: 
-
-<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/chamloh/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
- </p>

@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Loww
+## Hi👋 , I'm Loww
 
 - 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
 - 🔭 I’m currently working on CV Algorithms

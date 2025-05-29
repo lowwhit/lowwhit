@@ -1,4 +1,4 @@
-## Hi👋 , I'm lohith
+## Hi👋 , I'm Lohith
 
 - 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
 - 🔭 I’m currently working on CV Algorithms

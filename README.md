@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning AI Algos / ML / DL/ RL / ROS
 - 🔭 I’m currently working on CV Algorithms
+- 📫 How to reach me: chamakura.l[at]northeastern.edu
 
 ![](https://komarev.com/ghpvc/?username=lowwhit&color=blue&label=loww's+profile+views)
 
